@@ -2,19 +2,19 @@ EduManager est une application mobile développée avec React Native permettant 
 
 ## Installation
 
-1. Lancer le projet:
-
-```bash
-npm start
-```
-
 2. Installer les dépendances
 
 ```bash
 npm install
 ```
 
-2. Ouvrir l'application sur Expo Go.
+2. Lancer le projet:
+
+```bash
+npm start
+```
+
+3. Ouvrir l'application sur Expo Go.
 
 ## Connexion
 Vous pouvez vous connecter avec les identifiants:
