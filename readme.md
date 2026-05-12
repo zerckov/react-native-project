@@ -2,7 +2,7 @@ EduManager est une application mobile développée avec React Native permettant 
 
 ## Installation
 
-2. Installer les dépendances
+1. Installer les dépendances
 
 ```bash
 npm install
