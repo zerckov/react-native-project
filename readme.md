@@ -1,5 +1,21 @@
 EduManager est une application mobile développée avec React Native permettant aux étudiants de gérer leurs cours, tâches et notes, avec une base de données locale expo-SQLite pour un fonctionnement offline-first.
 
+## Installation
+
+1. Lancer le projet:
+
+```bash
+npm start
+```
+
+2. Installer les dépendances
+
+```bash
+npm install
+```
+
+2. Ouvrir l'application sur Expo Go.
+
 ## Connexion
 Vous pouvez vous connecter avec les identifiants:
 - email: user@example.com
@@ -36,16 +52,6 @@ Ou vous pouvez créer un nouveau compte et vous connecter ensuite.
 - src/data: accès aux données locales, auth et stockage de fichiers.
 - src/theme: couleurs et constantes visuelles.
 - assets: ressources statiques.
-
-## Installation
-
-1. Lancer le projet:
-
-```bash
-npm start
-```
-
-2. Ouvrir l'application sur Expo Go.
 
 ## Base de données
 
